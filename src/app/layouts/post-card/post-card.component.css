@@ -1,3 +1,7 @@
 .card {
   max-width: 400px;
 }
+
+.card-body small {
+  margin-left: 3px;
+}
