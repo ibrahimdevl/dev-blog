@@ -6,3 +6,8 @@
 .subs-text {
     width: 500px;
 }
+
+button {
+    background-color: var(--primary-color);
+    color: aliceblue;
+}

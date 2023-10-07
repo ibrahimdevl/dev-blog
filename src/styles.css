@@ -35,6 +35,14 @@ body{
   background-color: var(--primary-color);
 }
 
+.bg-secondary-theme {
+  background-color: var(--secondary-color);
+}
+
+.text-theme-primary {
+  columns: var(--primary-color);
+}
+
 input[type = text], input[type = email] {
   height: 60px;
   padding-left: 20px;
@@ -52,4 +60,5 @@ input[type = text], input[type = email] {
 .ml-3 {
   margin-left: 3px;
 }
+
 
